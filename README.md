@@ -12,11 +12,11 @@ Este projeto trata-se de uma página única de um site sobre construção de UI.
 <br>
 
 <p align="center">
-  <img alt="ui-builder" src="https://i.imgur.com/V7u5pMm.png" width="100%">
+  <img alt="ui-builder" src="https://i.imgur.com/bRsdK68.jpg" width="100%">
 </p>
 
 <p align="center">
-  <img alt="ui-builder" src="https://i.imgur.com/rX6Ygot.jpg" width="50%">
+  <img alt="ui-builder" src="https://i.imgur.com/rX6Ygot.jpg" width="40%">
 </p>
 
 ## 🚀 Tecnologias
